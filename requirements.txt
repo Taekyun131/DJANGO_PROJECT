@@ -96,9 +96,6 @@ pure_eval==0.2.3
 pycparser==2.22
 pydantic==2.11.4
 pydantic_core==2.33.2
-pydot==3.0.4
-pywin32==310
-pywinpty==2.0.15
 PyYAML==6.0.2
 pyzmq==26.3.0
 referencing==0.36.2
