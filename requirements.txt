@@ -111,7 +111,6 @@ pydantic_core==2.33.2
 pydot==3.0.4
 Pygments==2.19.1
 pyparsing==3.2.3
-python-dateutil==2.9.0.post0
 pywin32==310
 pywinpty==2.0.15
 PyYAML==6.0.2
